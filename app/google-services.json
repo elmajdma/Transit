@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "563369894631",
+    "firebase_url": "https://transit-f9c41.firebaseio.com",
+    "project_id": "transit-f9c41",
+    "storage_bucket": "transit-f9c41.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:563369894631:android:a6c893ec2f6c5715",
+        "android_client_info": {
+          "package_name": "elmajdma.transit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "563369894631-kdesfvgu8bql1jck759bsv365akgpe3r.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "elmajdma.transit",
+            "certificate_hash": "1f6802de04fc5beb59dfc50fba797c84d553bc94"
+          }
+        },
+        {
+          "client_id": "563369894631-vvu3n6q1p45f2skrefgo25jeqdpgkdm0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA4L286YW9T0jXQ890l_FoOFMFj7HMrNJI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "563369894631-vvu3n6q1p45f2skrefgo25jeqdpgkdm0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
